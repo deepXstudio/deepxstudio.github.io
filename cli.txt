@@ -20,6 +20,6 @@ git push heroku main
 6. You should see the progress of your deployment being displayed in the terminal
 
 
-1. heroku login  (:thanhbinh.gd/xx881)
+1. heroku login  
 2. heroku git:remote -a treiro
 3. git push heroku main:main
